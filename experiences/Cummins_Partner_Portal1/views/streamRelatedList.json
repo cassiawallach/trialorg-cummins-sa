@@ -1,0 +1,22 @@
+{
+  "appPageId" : "1ae92d6e-86bf-42a1-9b68-02cd9e5cfa1e",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "id" : "684f6c0a-2e5d-438f-bc7d-4955a1fe5641",
+  "label" : "Stream Related List",
+  "regions" : [ {
+    "id" : "1e6f2534-9bed-404d-92e3-a4908d555433",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "a07e1cb9-6e86-44ff-a749-06c5c1192965",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "58348d7a-8499-4826-8932-451671a21b2f",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-0Fq"
+}
