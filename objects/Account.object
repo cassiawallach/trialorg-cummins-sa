@@ -244,7 +244,7 @@
         <externalId>true</externalId>
         <label>Account Ext Id</label>
         <length>18</length>
-        <required>true</required>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>true</unique>
