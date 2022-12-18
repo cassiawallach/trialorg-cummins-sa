@@ -6,4 +6,19 @@
         <default>false</default>
         <label>None</label>
     </standardValue>
+    <standardValue>
+        <fullName>Grocery</fullName>
+        <default>false</default>
+        <label>Grocery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Household</fullName>
+        <default>false</default>
+        <label>Household</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
 </StandardValueSet>
