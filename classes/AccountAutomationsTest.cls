@@ -13,7 +13,7 @@ private class AccountAutomationsTest {
         System.assertNotEquals('Default description', acc.Description, 'When description is NOT null, it is NOT updated to Default description');
     }
 
-    @isTest static void testDefaultBillingAddress(){
+    @isTest static void testDefaultSite(){
         Account acc = new Account(Name = 'My Test Account');
         insert acc;
         acc = AccountAutomations.setDefaultSite(acc);
