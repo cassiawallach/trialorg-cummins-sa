@@ -11845,6 +11845,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Pricebook2.Price_Book_Ext_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Problem.Category</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -11926,6 +11931,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Product2.ProductCode</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Product2.Product_Ext_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
