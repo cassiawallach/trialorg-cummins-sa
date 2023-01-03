@@ -4,7 +4,7 @@
         <headerColor>#000000</headerColor>
         <logo>cumminslogo</logo>
         <logoVersion>1</logoVersion>
-        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
