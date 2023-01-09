@@ -203,6 +203,16 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Bicycles</pluralLabel>
+    <recordTypes>
+        <fullName>Electric</fullName>
+        <active>true</active>
+        <label>Electric</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Manual</fullName>
+        <active>true</active>
+        <label>Manual</label>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

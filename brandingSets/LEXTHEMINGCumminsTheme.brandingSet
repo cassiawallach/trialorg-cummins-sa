@@ -6,7 +6,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PAGE_BACKGROUND_COLOR</propertyName>
-        <propertyValue>#FFFFFF</propertyValue>
+        <propertyValue>#EAEAEA</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>HEADER_BACKGROUND_COLOR</propertyName>
@@ -22,7 +22,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>GROUPS_BANNER_IMAGE</propertyName>
-        <propertyValue>/file-asset/CumminsBanner1?v=1</propertyValue>
+        <propertyValue></propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>GROUP_IMAGE</propertyName>
@@ -34,7 +34,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>USER_IMAGE</propertyName>
-        <propertyValue>/file-asset/cumminslogo2?v=1</propertyValue>
+        <propertyValue></propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LINK_AS_BACKGROUND</propertyName>
@@ -43,6 +43,10 @@
     <brandingSetProperty>
         <propertyName>OVERRIDE_LOADING_PAGE</propertyName>
         <propertyValue>true</propertyValue>
+    </brandingSetProperty>
+    <brandingSetProperty>
+        <propertyName>OVERRIDE_A11Y_COLOR</propertyName>
+        <propertyValue>#000000</propertyValue>
     </brandingSetProperty>
     <masterLabel>Cummins Theme</masterLabel>
 </BrandingSet>
